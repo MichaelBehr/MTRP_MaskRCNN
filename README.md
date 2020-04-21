@@ -14,6 +14,6 @@ Running the scripts is simple, and just requires you to set up your directory st
 3. Results from the test script demonstrate how well the 2D-CNN detected the trigger points in new images.
 
 ## 4. To-do
-* Automate Mask R-CNN tuning
+* Automate Mask R-CNN tuning (currently manual)
 * Collect more data
-
+* Run processes on more powerful GPU setup to improve model
