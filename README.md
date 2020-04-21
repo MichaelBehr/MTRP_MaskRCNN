@@ -9,6 +9,6 @@ The 2D-CNN is scripted to be trained on a set of images with bounding boxes alre
 ## 3. Running Scripts
 Running the scripts is simple, and just requires you to set up your directory structure properly (to make sure the scripts access your training data). If this is done:
 
-* 1. Run the training script and observe the results.
-* 2. If they are to your liking run the test script.
-* 3. Results from the test script demonstrate how well the 2D-CNN detected the trigger points in new images.
+1. Run the training script and observe the results.
+2. If they are to your liking run the test script.
+3. Results from the test script demonstrate how well the 2D-CNN detected the trigger points in new images.
