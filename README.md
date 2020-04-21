@@ -16,4 +16,4 @@ Running the scripts is simple, and just requires you to set up your directory st
 ## 4. To-do
 * Automate Mask R-CNN tuning (currently manual)
 * Collect more data
-* Run processes on more powerful GPU setup to improve model
+* Run processes on more powerful GPU setup to improve model training speed
